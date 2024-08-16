@@ -1,0 +1,1 @@
+2024-08-16 16:03:56.145034: отработала функция flat_generator с аргументами ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}.Функция вoзращает <generator object flat_generator at 0x102713920>
